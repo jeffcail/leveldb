@@ -6,7 +6,9 @@ LevelDB is a key-value store embedded database management system programming lib
 Go operates leveldb, including Put, Get, Has, Delete, and SelectAll.
 
 # Install
-
+```shell
+go get github.com/jeffcail/leveldb
+```
 
 
 ### Example
